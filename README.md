@@ -2,8 +2,6 @@
 
 An implementation of multi-hop, agentic Graph Retrieval-Augmented Generation (Graph RAG) for medical question answering. The system combines semantic and relational retrieval channels - backed by **Neo4j** and **Milvus** -  to answer complex clinical questions that require multi-hop reasoning across a medical knowledge graph.
 
-Based on [GraphSearch: An Agentic Deep Searching Workflow for Graph RAG](https://arxiv.org/abs/2509.22009).
-
 Code coming soon.
 
 ## Features
